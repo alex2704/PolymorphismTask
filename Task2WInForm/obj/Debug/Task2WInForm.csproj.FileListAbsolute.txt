@@ -1,0 +1,12 @@
+C:\Users\bakul\OneDrive\Рабочий стол\АТТЕСТАЦИЯ ПО ПРОГАММИРОВАНИЮ\3 семестр\1 аттестация\Task2WInForm\Task2WInForm\bin\Debug\Task2WInForm.exe.config
+C:\Users\bakul\OneDrive\Рабочий стол\АТТЕСТАЦИЯ ПО ПРОГАММИРОВАНИЮ\3 семестр\1 аттестация\Task2WInForm\Task2WInForm\bin\Debug\Task2WInForm.exe
+C:\Users\bakul\OneDrive\Рабочий стол\АТТЕСТАЦИЯ ПО ПРОГАММИРОВАНИЮ\3 семестр\1 аттестация\Task2WInForm\Task2WInForm\bin\Debug\Task2WInForm.pdb
+C:\Users\bakul\OneDrive\Рабочий стол\АТТЕСТАЦИЯ ПО ПРОГАММИРОВАНИЮ\3 семестр\1 аттестация\Task2WInForm\Task2WInForm\obj\Debug\Task2WInForm.csprojResolveAssemblyReference.cache
+C:\Users\bakul\OneDrive\Рабочий стол\АТТЕСТАЦИЯ ПО ПРОГАММИРОВАНИЮ\3 семестр\1 аттестация\Task2WInForm\Task2WInForm\obj\Debug\Task2WInForm.Properties.Resources.resources
+C:\Users\bakul\OneDrive\Рабочий стол\АТТЕСТАЦИЯ ПО ПРОГАММИРОВАНИЮ\3 семестр\1 аттестация\Task2WInForm\Task2WInForm\obj\Debug\Task2WInForm.csproj.GenerateResource.Cache
+C:\Users\bakul\OneDrive\Рабочий стол\АТТЕСТАЦИЯ ПО ПРОГАММИРОВАНИЮ\3 семестр\1 аттестация\Task2WInForm\Task2WInForm\obj\Debug\Task2WInForm.csproj.CoreCompileInputs.cache
+C:\Users\bakul\OneDrive\Рабочий стол\АТТЕСТАЦИЯ ПО ПРОГАММИРОВАНИЮ\3 семестр\1 аттестация\Task2WInForm\Task2WInForm\obj\Debug\Task2WInForm.exe
+C:\Users\bakul\OneDrive\Рабочий стол\АТТЕСТАЦИЯ ПО ПРОГАММИРОВАНИЮ\3 семестр\1 аттестация\Task2WInForm\Task2WInForm\obj\Debug\Task2WInForm.pdb
+C:\Users\bakul\OneDrive\Рабочий стол\АТТЕСТАЦИЯ ПО ПРОГАММИРОВАНИЮ\3 семестр\1 аттестация\Task2WInForm\Task2WInForm\obj\Debug\Task2WInForm.MobileOperatorForm.resources
+C:\Users\bakul\OneDrive\Рабочий стол\АТТЕСТАЦИЯ ПО ПРОГАММИРОВАНИЮ\3 семестр\1 аттестация\Task2WInForm\Task2WInForm\bin\Debug\Utils.dll
+C:\Users\bakul\OneDrive\Рабочий стол\АТТЕСТАЦИЯ ПО ПРОГАММИРОВАНИЮ\3 семестр\1 аттестация\Task2WInForm\Task2WInForm\bin\Debug\Utils.pdb
